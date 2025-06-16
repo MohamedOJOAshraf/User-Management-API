@@ -1,5 +1,3 @@
-
-
 const statusText =  {
     SUCCESS:'Success',
     ERROR:'Error',
